@@ -1,3 +1,14 @@
+進捗状況の一覧:
+
+✅ ログイン機能（テスト済み）
+✅ 登録機能（テスト済み）
+🚧 ゲーム機能（テスト済み）
+❌ ソケット通信（未完成）
+❌ リーダーボード（未完成）
+❌ CSS（未完成）
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
